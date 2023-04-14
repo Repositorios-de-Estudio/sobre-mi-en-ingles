@@ -2,7 +2,7 @@
 
 ## Describe yourself / Who is you?
 
-- I am Manu, I have 4 years experience working on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks,Whitelist and EndPoints
+- I am Manu, I have been working for 4 years on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks,Whitelist and EndPoints. Also I have been technical lead and especialist support for these products
 - I am a systems engineer that is passionate about my work, I like to investigate, collaborate and give the best service to customers.
 - I like to learn and teach my teammates, So I like training myself in different topics that the company offers me
 - I like to planning, study and document my work
