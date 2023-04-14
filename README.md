@@ -2,6 +2,7 @@
 
 ## Describe yourself / Who is you?
 
+- I am Manu, I have 4 years experience working on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks,Whitelist and EndPoints
 - I am a systems engineer that is passionate about my work, I like to investigate, collaborate and give the best service to customers.
 - I like to learn and teach my teammates, So I like training myself in different topics that the company offers me
 - I like to planning, study and document my work
@@ -19,9 +20,9 @@
 
 After finishing studying I played video games on friday night, saturday and sunday I did trekking, I have been doing this the last 3 years in the mountains in my city or close, with friends and/or my girlfirend. After do trekking I took a shower at home and I went to bed.
 
-## What would you do?
+## In a situation: What would you do?
 
-## How would you solve the issue?
+## In a situation: How would you solve the issue?
 
 ## what are your soft skills? (strengths)
 
