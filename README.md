@@ -1,14 +1,14 @@
 # PREGUNTAS PREFUENTES EN INGLES (ENTREVISTA DE TRABAJO)
 
-## Describe yourself / Who is Manu?
+## Describe yourself / Who is you?
 
 ## What are your hobbies?
 
-## QUE HIZO EL FDS PASADO?
+## What did you do last weekend?
 
-## POR QUE CREE QUE PUEDE ESTAR EN ESTE CARGO?
+## What would you do?
 
-## SEGUN UNA SITUACIÓN, QUE HARÍA? COMO RESOLVERIA EL PROBLEMA?
+## How would you solve the issue?
 
 ## what are your soft skills? (strengths)
 
