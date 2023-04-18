@@ -1,5 +1,9 @@
 # PREGUNTAS PREFUENTES EN INGLES (ENTREVISTA DE TRABAJO)
 
+## Small talk
+
+- Thanks for inviting me to interview
+
 ## Describe yourself / Who is you?
 
 - I am a systems engineer, I am passionate about the technology and love my work, I like to investigate, collaborate and give the best service to customers.
@@ -23,16 +27,32 @@ After finishing studying I played video games on friday night, saturday and sund
 
 ## In a situation: What would you do?
 
+Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe y otro para el cliente. ¿Que haría primero?
+
 ## In a situation: How would you solve the issue?
 
-## what are your soft skills? (strengths)
+## What are your soft skills? (strengths/fortalezas)
 
-## what are your hard skills? (strengths)
+- I'm a good teammate, I like be a good player
+- I can be a leader when it is neccesary or I can follow instrucctions
+- Usually I document any issue to share knowledge with my teammates and our company
+- I some situations I preffer asking to someone before to do something
+- I like training and share to my teammates
+- I have exeperiencie to manage somethings on a projects and I have been exposed with the customer for listen and advise them
+
+## What are your hard skills? (strengths/fortalezas)
+
+- I have knowledge an experience on Windows Server, Linux Server and DataBases, also, I have been a administrator for some monitoring and security tools
+- I have knowledge on CI/CD with Kubernetes, Docker and Jenkins
+- I have exeperiencie on scripintg and remote implemetations
+- I have been working with Software As a Service and On-Premise Products
+- I can create, manage and solve incidents, issues or requeriments
+- I have knowledge an experience on security tools for logical attacks like Trellix ePO, Solidcore and WinMagic Enterprise Tools
 
 ## What are your weaknesses? (debilidades)
 
-- Sometimes I focus all my time and all my effort to solve a issue, I am trying to change this so If I take more than 1 day solving a issue I ask my teammates for help 
-- 
+- Sometimes I focus all my time and all my effort to solve a issue, I am trying to change this so If I take more than 1 day solving an issue I ask my teammates for help
+- I some situations I preffer asking to someone before to do something
 
 ## Tell me how you handled a difficult situation (situación dificil)
 
@@ -42,6 +62,8 @@ After finishing studying I played video games on friday night, saturday and sund
 
 ## Why are you interested in working in this company?
 
+## Why should we hire you?
+
 ## Where do you see yourself in 5 years?
 
 - I see myself in a senior position in this area or a security area in this company, or maybe other new area of technology
@@ -49,7 +71,7 @@ After finishing studying I played video games on friday night, saturday and sund
 ## Do you have anyquestions for US?
 
 - Sobre el plan carrera
-- Hay posibilidad de tener una posicion mas arriba transversalmente?
+- Hay posibilidad de escalar vertical or transversalmente?
 
 ***
 
@@ -57,4 +79,5 @@ After finishing studying I played video games on friday night, saturday and sund
 
 - [Leer texto en ingles](https://www.naturalreaders.com/online/)
 - [Texto a voz](https://dictation.io/speech)
-- [Preguntas frecuente 1]()
+- [Preguntas frecuente 1](https://www.turijobs.com/blog/preguntas-entrevista-trabajo-ingles/)
+- [Traducción en contexto](https://context.reverso.net/traduccion/espanol-ingles/)
