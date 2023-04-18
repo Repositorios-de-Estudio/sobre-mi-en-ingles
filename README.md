@@ -33,10 +33,10 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 
 ## What are your soft skills? (strengths/fortalezas)
 
-- I'm a good teammate, I like be a good player
-- I can be a leader when it is neccesary or I can follow instrucctions
-- Usually I document any issue to share knowledge with my teammates and our company
-- I some situations I preffer asking to someone before to do something
+- I'm a good teammate, I like to be a good player
+- When it is neccesary I can be a leader or I can follow instrucctions
+- I usually document any important situaction, issue and solution to share knowledge with my teammates and our company
+- In some situations I preffer to ask someone before to do something
 - I like training and share to my teammates
 - I have exeperiencie to manage somethings on a projects and I have been exposed with the customer for listen and advise them
 
@@ -44,7 +44,7 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 
 - I have knowledge an experience on Windows Server, Linux Server and DataBases, also, I have been a administrator for some monitoring and security tools
 - I have knowledge on CI/CD with Kubernetes, Docker and Jenkins
-- I have exeperiencie on scripintg and remote implemetations
+- I have exeperiencie on scripintg (bat, ps1, sh) and remote implemetations
 - I have been working with Software As a Service and On-Premise Products
 - I can create, manage and solve incidents, issues or requeriments
 - I have knowledge an experience on security tools for logical attacks like Trellix ePO, Solidcore and WinMagic Enterprise Tools
@@ -55,6 +55,7 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 - I some situations I preffer asking to someone before to do something
 
 ## Tell me how you handled a difficult situation (situación dificil)
+
 
 ## Hablame sobre una situación de éxito
 
