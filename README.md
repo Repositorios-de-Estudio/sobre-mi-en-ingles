@@ -2,16 +2,15 @@
 
 ## Small talk
 
-- Thanks for inviting me to interview
+- Thank you for inviting me to the interview, I'm happy to be here.
 
 ## Describe yourself / Who is you?
 
 - I am a systems engineer, I am passionate about the technology and love my work, I like to investigate, collaborate and give the best service to customers.
-- I am Manu, I have been working for 4 years on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks, Whitelist, Monitoring tools and others. Also I have been technical lead and especialist support for these products
-- I like to learn and teach my teammates, So I like training myself in different topics that the company offers me
-- I like to planning, study, share and document my work
-- I always try to give the best solution and make an extra effort to meet the goal
-- I really like to collaborate in a team, and when necessary I can be a lead or follow instructions
+- I worked as a Quality assurance (doing test on client-machines and posts) at HANDELCl. 
+The project was the upgrade the transactional swtich at a Bank of Colombia.
+- I worked as a Technical consultant - PS2 at NCRCl for 4 years on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks, Whitelist, Monitoring tools and others. Also I have been technical lead and especialist support for these products
+- I did maintenance and check performance on cliente-machines and Servers
 
 ## What are your hobbies and interests?
 
@@ -23,7 +22,7 @@
 
 ## What did you do last weekend?
 
-After finishing studying I played video games on friday night, saturday and sunday I did trekking, I have been doing this the last 3 years in the mountains in my city or close, with friends and/or my girlfirend. After do trekking I took a shower at home and I went to bed.
+After finishing studying I played video games on friday night, saturday and sunday I did trekking, I have been doing this the last 3 years in the mountains in my city or close, with friends and/or my girlfirend.
 
 ## In a situation: What would you do?
 
@@ -42,12 +41,17 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 
 ## What are your hard skills? (strengths/fortalezas)
 
+- I like to learn and teach my teammates, So I like training myself in different topics that the company offers me
+- I like to planning, study, share and document my work
+- I always try to give the best solution and make an extra effort to meet the goal
+- I really like to collaborate in a team, and when necessary I can be a lead or follow instructions
 - I have knowledge an experience on Windows Server, Linux Server and DataBases, also, I have been a administrator for some monitoring and security tools
 - I have knowledge on CI/CD with Kubernetes, Docker and Jenkins
 - I have exeperiencie on scripintg (bat, ps1, sh) and remote implemetations
 - I have been working with Software As a Service and On-Premise Products
 - I can create, manage and solve incidents, issues or requeriments
 - I have knowledge an experience on security tools for logical attacks like Trellix ePO, Solidcore and WinMagic Enterprise Tools
+- I check application performance and find any issue
 
 ## What are your weaknesses? (debilidades)
 
@@ -56,7 +60,6 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 
 ## Tell me how you handled a difficult situation (situación dificil)
 
-
 ## Hablame sobre una situación de éxito
 
 ## Why do you want to leave your current company?
@@ -64,6 +67,8 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 ## Why are you interested in working in this company?
 
 ## Why should we hire you?
+
+- I believe that with my knowledge and experience in specialist support, deployments, manage issues and security tools can contribute to the processes that you currently have
 
 ## Where do you see yourself in 5 years?
 
@@ -74,6 +79,10 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 - Sobre el plan carrera
 - Hay posibilidad de escalar vertical or transversalmente?
 
+## otros
+
+- I would like to have the opportunity to learn and use new technologies, and improve my English
+
 ***
 
 # REFERENCIAS
@@ -82,3 +91,6 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 - [Texto a voz](https://dictation.io/speech)
 - [Preguntas frecuente 1](https://www.turijobs.com/blog/preguntas-entrevista-trabajo-ingles/)
 - [Traducción en contexto](https://context.reverso.net/traduccion/espanol-ingles/)
+
+
+
