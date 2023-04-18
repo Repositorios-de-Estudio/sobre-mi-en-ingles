@@ -2,15 +2,17 @@
 
 ## Small talk
 
-- Thank you for inviting me to the interview, I'm happy to be here.
+- Thank you for inviting me to the interview and taking the time to meet whith me
 
 ## Describe yourself / Who is you?
 
-- I am a systems engineer, I am passionate about the technology and love my work, I like to investigate, collaborate and give the best service to customers.
-- I worked as a Quality assurance (doing test on client-machines and posts) at HANDELCl. 
-The project was the upgrade the transactional swtich at a Bank of Colombia.
-- I worked as a Technical consultant - PS2 at NCRCl for 4 years on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks, Whitelist, Monitoring tools and others. Also I have been technical lead and especialist support for these products
+- I am a systems engineer, I am passionate about the technology and love my work, I like to investigate, collaborate and give the best service to customers
+- Currently I am not working so I am studying English and I am training on new technologies to improve my skills
+- I worked as a Quality assurance (doing test on client-machines and posts) at HANDELCl
+The project was the upgrade a transactional swtich
+- Also I worked as a Technical consultant - PS2 at NCRCl for 4 years on deployments, software as a service and on-premise products, Some are ERP, security for logical attacks, Whitelist, Monitoring tools and others. Also I have been technical lead and especialist support for these products
 - I did maintenance and check performance on cliente-machines and Servers
+- I am hopping to move a senior role in this area or if the company needs it I would like to move to other area ti support other technology process
 
 ## What are your hobbies and interests?
 
