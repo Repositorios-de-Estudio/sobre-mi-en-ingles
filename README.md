@@ -88,9 +88,14 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 # REFERENCIAS
 
 - [Leer texto en ingles](https://www.naturalreaders.com/online/)
+- [Lyrincs en ingles](https://es.lyricstraining.com/en/)
 - [Texto a voz](https://dictation.io/speech)
 - [Preguntas frecuente 1](https://www.turijobs.com/blog/preguntas-entrevista-trabajo-ingles/)
 - [Traducción en contexto](https://context.reverso.net/traduccion/espanol-ingles/)
 
+# REFERENCIAS DE ESTUDIO
 
+- [King's College London](https://www.futurelearn.com/courses/basic-english-elementary)
+- [Cambridge English(https://www.cambridgeenglish.org/learning-english/activities-for-learners)
+- [Bitish Council](https://learnenglish.britishcouncil.org/getting-started)
 
