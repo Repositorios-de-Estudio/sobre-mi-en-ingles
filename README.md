@@ -49,7 +49,7 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 - I really like to collaborate in a team, and when necessary I can be a lead or follow instructions
 - I have knowledge an experience on Windows Server, Linux Server and DataBases, also, I have been a administrator for some monitoring and security tools
 - I have knowledge on CI/CD with Kubernetes, Docker and Jenkins
-- I have exeperiencie on scripintg (bat, ps1, sh) and remote implemetations
+- I have experience making scripts for unattended installations (bat, ps1, sh) and remote implemetations
 - I have been working with Software As a Service and On-Premise Products
 - I can create, manage and solve incidents, issues or requeriments
 - I have knowledge an experience on security tools for logical attacks like Trellix ePO, Solidcore and WinMagic Enterprise Tools
@@ -63,6 +63,8 @@ Si tuviera una situación donde deber hacer dos cosas urgentes, una para su jefe
 ## Tell me how you handled a difficult situation (situación dificil)
 
 ## Hablame sobre una situación de éxito
+
+- On some occasions I was able to improve a process to solve various issues on a server
 
 ## Why do you want to leave your current company?
 
